@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/funkjus/hasura/static/css/main.d7e95554.chunk.css",
+    "main.js": "/funkjus/hasura/static/js/main.fb984441.chunk.js",
+    "main.js.map": "/funkjus/hasura/static/js/main.fb984441.chunk.js.map",
+    "runtime~main.js": "/funkjus/hasura/static/js/runtime~main.c955e0e5.js",
+    "runtime~main.js.map": "/funkjus/hasura/static/js/runtime~main.c955e0e5.js.map",
+    "static/js/2.553eac01.chunk.js": "/funkjus/hasura/static/js/2.553eac01.chunk.js",
+    "static/js/2.553eac01.chunk.js.map": "/funkjus/hasura/static/js/2.553eac01.chunk.js.map",
+    "index.html": "/funkjus/hasura/index.html",
+    "precache-manifest.4308cd174bd0e3883988344ae3e6fd40.js": "/funkjus/hasura/precache-manifest.4308cd174bd0e3883988344ae3e6fd40.js",
+    "service-worker.js": "/funkjus/hasura/service-worker.js",
+    "static/css/main.d7e95554.chunk.css.map": "/funkjus/hasura/static/css/main.d7e95554.chunk.css.map",
+    "static/media/logo.svg": "/funkjus/hasura/static/media/logo.06e73328.svg"
+  }
+}
